@@ -1,0 +1,232 @@
+[18:35:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:35:02] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:35:03] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:35:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:35:04] [Server thread/INFO]: Loading properties
+[18:35:04] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[18:35:04] [Server thread/INFO]: Debug logging is disabled
+[18:35:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:35:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:35:04] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:04] [Server thread/INFO]: Generating keypair
+[18:35:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:04] [Server thread/INFO]: Using epoll channel type
+[18:35:05] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.28-SNAPSHOT (build 2357)
+[18:35:05] [Server thread/INFO]: [TerminatorPlus] Loading TerminatorPlus v3.0-BETA
+[18:35:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:35:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:35:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:35:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:35:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:35:05] [Server thread/INFO]: Preparing level "world"
+[18:35:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:35:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:35:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:35:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:35:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:35:05] [Server thread/INFO]: Max TNT Explosions: 100
+[18:35:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:35:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:35:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:35:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:35:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:35:05] [Server thread/INFO]: View Distance: 10
+[18:35:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:35:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:35:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:35:05] [Server thread/INFO]: Mob Spawn Range: 6
+[18:35:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:35:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:35:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:35:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:35:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:35:05] [Server thread/INFO]: Max TNT Explosions: 100
+[18:35:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:35:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:35:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:35:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:35:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:35:05] [Server thread/INFO]: View Distance: 10
+[18:35:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:35:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:35:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:35:05] [Server thread/INFO]: Mob Spawn Range: 6
+[18:35:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:35:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:35:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:35:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:35:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:35:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:35:05] [Server thread/INFO]: Max TNT Explosions: 100
+[18:35:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:35:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:35:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:35:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:35:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:35:05] [Server thread/INFO]: View Distance: 10
+[18:35:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:35:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:35:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:35:05] [Server thread/INFO]: Mob Spawn Range: 6
+[18:35:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:35:05] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:05] [Server thread/INFO]: Time elapsed: 233 ms
+[18:35:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:35:05] [Server thread/INFO]: Time elapsed: 85 ms
+[18:35:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:35:06] [Server thread/INFO]: Time elapsed: 464 ms
+[18:35:06] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.28-SNAPSHOT (build 2357)
+[18:35:06] [Server thread/INFO]: [Citizens] Vault not found -> no economy handling.
+[18:35:07] [Server thread/INFO]: [TerminatorPlus] Enabling TerminatorPlus v3.0-BETA
+[18:35:07] [Server thread/INFO]: Running delayed init tasks
+[18:35:07] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[18:35:07] [Server thread/INFO]: Done (3.275s)! For help, type "help"
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[18:35:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:35:07] [Server thread/INFO]: Timings Reset
+[18:36:32] [User Authenticator #1/INFO]: UUID of player Naioss is 4c16e6cf-67a1-38e4-9b90-940c513119ba
+[18:36:32] [Server thread/INFO]: Naioss joined the game
+[18:36:32] [Server thread/INFO]: Naioss[/127.12.44.43:36637] logged in with entity id 443 at ([world]-45.18416604927831, 54.0, -207.30000001192093)
+[18:36:52] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:36:52] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:37:38] [Server thread/INFO]: Naioss lost connection: Disconnected
+[18:37:38] [Server thread/INFO]: Naioss left the game
+[18:38:14] [User Authenticator #2/INFO]: UUID of player Naioss is 4c16e6cf-67a1-38e4-9b90-940c513119ba
+[18:38:14] [Server thread/INFO]: Naioss joined the game
+[18:38:14] [Server thread/INFO]: Naioss[/127.12.44.43:54519] logged in with entity id 599 at ([world]-97.31784951104254, 64.0, -212.0250558416599)
+[18:40:34] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:40:34] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:40:35] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:40:35] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:40:39] [Server thread/INFO]: Naioss issued server command: /time set day
+[18:40:39] [Server thread/INFO]: [Naioss: Set the time to 1000]
+[18:40:48] [Server thread/INFO]: Naioss issued server command: /weather clear
+[18:40:48] [Server thread/INFO]: [Naioss: Set the weather to clear]
+[18:40:53] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:40:53] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:41:09] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:41:09] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:41:18] [Server thread/INFO]: Naioss issued server command: /spawnpoint @a ~ ~ ~
+[18:41:18] [Server thread/INFO]: [Naioss: Set spawn point to -111, 70, 913 [0.0] in minecraft:overworld for Naioss]
+[18:41:47] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:41:47] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:41:48] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:41:48] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:41:55] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:41:55] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:42:06] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration
+[18:42:06] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:07] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration
+[18:42:07] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:08] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration
+[18:42:08] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:08] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration
+[18:42:08] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:09] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration
+[18:42:09] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:10] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration 1
+[18:42:13] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration 2
+[18:42:14] [Server thread/INFO]: Naioss issued server command: /effect give Naioss minecraft:regeneration 2 2
+[18:42:14] [Server thread/INFO]: [Naioss: Applied effect Regeneration to Naioss]
+[18:42:28] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:42:28] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:42:32] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:42:32] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:42:37] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:42:37] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:42:40] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:42:40] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:43:02] [Server thread/INFO]: Naioss lost connection: Disconnected
+[18:43:02] [Server thread/INFO]: Naioss left the game
+[18:44:13] [User Authenticator #3/INFO]: UUID of player Naioss is 4c16e6cf-67a1-38e4-9b90-940c513119ba
+[18:44:13] [Server thread/INFO]: Naioss joined the game
+[18:44:13] [Server thread/INFO]: Naioss[/127.12.44.43:42309] logged in with entity id 3904 at ([world]-37.88655742249408, 68.0, 908.9045008552079)
+[18:45:47] [Server thread/INFO]: Naioss lost connection: Disconnected
+[18:45:47] [Server thread/INFO]: Naioss left the game
+[18:47:40] [User Authenticator #4/INFO]: UUID of player Naioss is 4c16e6cf-67a1-38e4-9b90-940c513119ba
+[18:47:40] [Server thread/INFO]: Naioss joined the game
+[18:47:40] [Server thread/INFO]: Naioss[/127.12.44.43:51043] logged in with entity id 4474 at ([world]-1.7253549489095077, 71.0, 939.592752288161)
+[18:47:47] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:47:47] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:49:11] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:49:11] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:50:11] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:50:11] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:50:17] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:50:17] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:50:42] [Server thread/INFO]: Naioss issued server command: /gamemode creative
+[18:50:42] [Server thread/INFO]: [Naioss: Set own game mode to Creative Mode]
+[18:50:50] [Server thread/INFO]: Naioss issued server command: /bot create
+[18:50:57] [Server thread/INFO]: Naioss issued server command: /bot create tomaschetaa
+[18:51:04] [Server thread/INFO]: Naioss issued server command: /bot create tomaschetaa tomaschetaa
+[18:51:16] [Server thread/INFO]: Naioss issued server command: /gamemode survival
+[18:51:16] [Server thread/INFO]: [Naioss: Set own game mode to Survival Mode]
+[18:51:33] [Server thread/INFO]: tomaschetaa was blown up by Creeper
+[18:52:04] [Server thread/INFO]: Naioss was shot by Skeleton
+[18:52:08] [Server thread/INFO]: Naioss lost connection: Disconnected
+[18:52:08] [Server thread/INFO]: Naioss left the game
+[18:52:11] [User Authenticator #5/INFO]: UUID of player Naioss is 4c16e6cf-67a1-38e4-9b90-940c513119ba
+[18:52:11] [Server thread/INFO]: Naioss joined the game
+[18:52:11] [Server thread/INFO]: Naioss[/127.12.44.43:36941] logged in with entity id 5932 at ([world]-110.5, 70.0, 913.5)
+[18:52:14] [Server thread/INFO]: Naioss lost connection: Disconnected
+[18:52:14] [Server thread/INFO]: Naioss left the game

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "4be2d4e5-cadb-48f0-982c-71b04239bb33",
+    "name": "Pezon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4c16e6cf-67a1-38e4-9b90-940c513119ba",
+    "name": "Naioss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ad2b9975-8a0b-4bf4-a033-4a3b0955867b",
+    "name": "ImMagikz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
